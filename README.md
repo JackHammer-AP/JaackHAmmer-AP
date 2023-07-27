@@ -1,8 +1,8 @@
 Hi 👋 My name is Ashwini Patil
 ==============================
 
-A Developer in free time & Currently a student of Business Administration,
---------------------------------------------------------------------------
+A Developer in free time & Currently a professional in a IT company,
+--------------------------------------------------------------------
 
 I have been learning new languages & developing in this pandemic time and took an interest in the business side so just got enrolled in Master of Business Administration (MBA) & currently pursuing it.
 
