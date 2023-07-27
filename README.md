@@ -4,11 +4,11 @@ Hi 👋 My name is Ashwini Patil
 A Developer in free time & Currently a professional in a IT company,
 --------------------------------------------------------------------
 
-I have been learning new languages & developing in this pandemic time and took an interest in the business side so just got enrolled in Master of Business Administration (MBA) & currently pursuing it.
+I have been learning new languages & developing in this pandemic time and took an interest in the business side so just got enrolled in Master of Business Administration (MBA) & successfully completed it.
 
 * 🌍  I'm based in Gujarat
 * ✉️  You can contact me at [patil.ashwini0606@gmail.com](mailto:patil.ashwini0606@gmail.com)
-* 🧠  I'm learning Business Administration (pursuing MBA)
+* 🧠  I'm now a professional at a mid sized IT company
 
 <a href="https://www.twitter.com/As_Patil_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/As_Patil_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
